@@ -1,0 +1,9 @@
+ERROR [2019-11-11 16:54:10] E:\lanjing\lanjingtest\demo\common\public_method.py 26 return_result 4616 8196 
+ 	 User authentication failed, please provide a valid user identity, such as bk_token, bk_username 
+
+ERROR [2019-11-11 17:35:04] E:\lanjing\lanjingtest\demo\common\public_method.py 26 return_result 7960 5612 
+ 	 添加模板失败 
+
+ERROR [2019-11-11 17:35:13] E:\lanjing\lanjingtest\demo\common\public_method.py 26 return_result 7960 12376 
+ 	 删除模板不成功 
+

@@ -1,0 +1,9 @@
+DEBUG [2019-11-06 13:47:35] C:\Python27\lib\site-packages\django\db\backends\utils.py 89 execute 10868 6260 
+ 	 (0.001) SET SQL_AUTO_IS_NULL = 0; args=None 
+
+DEBUG [2019-11-06 13:47:35] C:\Python27\lib\site-packages\django\db\backends\utils.py 89 execute 10868 6260 
+ 	 (0.000) SET SQL_AUTO_IS_NULL = 0; args=None 
+
+DEBUG [2019-11-06 13:47:35] C:\Python27\lib\site-packages\django\db\backends\utils.py 89 execute 10868 6260 
+ 	 (0.000) SHOW FULL TABLES; args=None 
+
